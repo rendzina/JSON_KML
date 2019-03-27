@@ -8,4 +8,4 @@ iPhone App [Sensor Log](https://itunes.apple.com/gb/app/sensorlog/id388014573?mt
 
 ## Usage
 
-'''   parse_json_route.py -i <inputfile>
+```   parse_json_route.py -i <inputfile>
