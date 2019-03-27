@@ -13,7 +13,7 @@ iPhone App [Sensor Log](https://itunes.apple.com/gb/app/sensorlog/id388014573?mt
 ```
 
 ## Input JSON data format
-The input data format of the JSON file is as follows
+An example of the input data format of the JSON file is as follows (for three points):
 
 ```
 [
