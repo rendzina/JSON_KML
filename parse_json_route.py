@@ -1,6 +1,5 @@
 #!/usr/bin/python
 # parse_json_route.py
-# Steve Hallett
 # Usage: parse_json_route.py -i <inputfile>
 
 import sys, getopt, os, json
